@@ -2,6 +2,10 @@
 
 An AI-powered tool that automates code modifications for feature additions and bug fixes in GitHub repositories.
 
+
+https://github.com/user-attachments/assets/e1819347-434d-467b-9c91-00ce86a8ff99
+
+
 ## Features
 
 - Automatically implement new features in existing codebases
