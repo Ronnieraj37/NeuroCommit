@@ -1,0 +1,6 @@
+aiohttp>=3.8.5
+anthropic==0.8.1
+pytest==7.4.0
+pygithub==1.59.1
+asyncio==3.4.3
+discord.py==2.5.2

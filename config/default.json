@@ -1,0 +1,21 @@
+{
+    "github_token": "github_token",
+    "claude_api_key": "claude_api_key",
+    "discord_token": "discord_token",
+    "max_concurrent_tasks": 3,
+    "temp_directory": "/tmp/ai_code_agent",
+    "logging": {
+        "level": "INFO",
+        "file": "ai_code_agent.log",
+        "console": true
+    },
+    "testing": {
+        "run_tests": true,
+        "timeout_seconds": 300
+    },
+    "ai": {
+        "model": "claude-3-7-sonnet-20250219",
+        "temperature": 0.2,
+        "max_tokens": 4000
+    }
+}
